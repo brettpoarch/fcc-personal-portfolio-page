@@ -151,9 +151,11 @@ footer {
 	border-top: 5px solid rgb(188, 51, 71);
 }
 
-
-
-
+@media (max-width: 800px) {
+	.navi {
+		font-size: 15px;
+	}
+}
 
 
 
